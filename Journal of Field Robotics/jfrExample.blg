@@ -1,0 +1,86 @@
+This is BibTeX, Version 0.99d (TeX Live 2018/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: jfrExample.aux
+The style file: apalike.bst
+Database file #1: jfrExampleRefs.bib
+I was expecting a `,' or a `)'---line 13 of file jfrExampleRefs.bib
+ : 
+ : }
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `)'---line 31 of file jfrExampleRefs.bib
+ :     
+ :     }
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Name 1 in "Nan Binh, and Caleb McCue, and Kevin O'Brien" has a comma at the end for entry binh
+while executing---line 1019 of file apalike.bst
+Name 1 in "Nan Binh, and Caleb McCue, and Kevin O'Brien" has a comma at the end for entry binh
+while executing---line 1019 of file apalike.bst
+Name 2 in "Nan Binh, and Caleb McCue, and Kevin O'Brien" has a comma at the end for entry binh
+while executing---line 1019 of file apalike.bst
+Name 1 in "Charles Baldwin, and Caleb Bevan, and Aaron Beshalske" has a comma at the end for entry baldwin
+while executing---line 1019 of file apalike.bst
+Name 1 in "Charles Baldwin, and Caleb Bevan, and Aaron Beshalske" has a comma at the end for entry baldwin
+while executing---line 1019 of file apalike.bst
+Name 2 in "Charles Baldwin, and Caleb Bevan, and Aaron Beshalske" has a comma at the end for entry baldwin
+while executing---line 1019 of file apalike.bst
+Name 1 in "Greg Stock, and James Campbell" has a comma at the end for entry stock
+while executing---line 1019 of file apalike.bst
+Name 1 in "Greg Stock, and James Campbell" has a comma at the end for entry stock
+while executing---line 1019 of file apalike.bst
+Warning--empty author and editor in apa
+Warning--empty title in apa
+Warning--empty publisher in apa
+Name 1 in "Charles Baldwin, and Caleb Bevan, and Aaron Beshalske" has a comma at the end for entry baldwin
+while executing---line 1094 of file apalike.bst
+Name 2 in "Charles Baldwin, and Caleb Bevan, and Aaron Beshalske" has a comma at the end for entry baldwin
+while executing---line 1094 of file apalike.bst
+Name 1 in "Nan Binh, and Caleb McCue, and Kevin O'Brien" has a comma at the end for entry binh
+while executing---line 1094 of file apalike.bst
+Name 2 in "Nan Binh, and Caleb McCue, and Kevin O'Brien" has a comma at the end for entry binh
+while executing---line 1094 of file apalike.bst
+Name 1 in "Greg Stock, and James Campbell" has a comma at the end for entry stock
+while executing---line 1094 of file apalike.bst
+You've used 6 entries,
+            1935 wiz_defined-function locations,
+            501 strings with 4386 characters,
+and the built_in function-call counts, 1860 in all, are:
+= -- 174
+> -- 57
+< -- 2
++ -- 18
+- -- 18
+* -- 145
+:= -- 323
+add.period$ -- 16
+call.type$ -- 6
+change.case$ -- 37
+chr.to.int$ -- 6
+cite$ -- 9
+duplicate$ -- 88
+empty$ -- 157
+format.name$ -- 24
+if$ -- 368
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 6
+newline$ -- 31
+num.names$ -- 13
+pop$ -- 51
+preamble$ -- 1
+purify$ -- 41
+quote$ -- 0
+skip$ -- 52
+stack$ -- 0
+substring$ -- 97
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 30
+warning$ -- 3
+while$ -- 10
+width$ -- 0
+write$ -- 72
+(There were 15 error messages)

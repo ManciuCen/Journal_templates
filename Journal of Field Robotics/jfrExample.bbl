@@ -1,0 +1,33 @@
+\begin{thebibliography}{}
+
+\bibitem[APA Online Guide, 2006]{apa}
+APA Online Guide (2006).
+\newblock Retrieved January 12, 2006, from http://www.apastyle.org/.
+
+\bibitem[Baldwin et~al., 2000]{baldwin}
+Baldwin, C., Bevan, C., and Beshalske, A. (2000).
+\newblock Example of journal article reference.
+\newblock {\em Journal of Reference Examples}, 141:171--177.
+
+\bibitem[Baxter, 1997]{baxter}
+Baxter, C. (1997).
+\newblock {\em Example references of books with one author}.
+\newblock New York: Random House.
+
+\bibitem[Binh et~al., 1998]{binh}
+Binh, N., McCue, C., and O'Brien, K. (1998).
+\newblock Example conference paper reference.
+\newblock In {\em Proceedings of National Reference Example Convention},
+  Pittsburgh, PA.
+
+\bibitem[Stock and Campbell, 2000]{stock}
+Stock, G. and Campbell, J., editors (2000).
+\newblock {\em Example references of books with editors}.
+\newblock Philadelphia: Curd and Cover.
+
+\bibitem[University of Wisconsin-Madison's APA Guide, 2004]{wisconsin}
+University of Wisconsin-Madison's APA Guide (2004).
+\newblock Retrieved January 12, 2006, from
+  http://www.wisc.edu/writest/Handbook/DocAPA.html.
+
+\end{thebibliography}
