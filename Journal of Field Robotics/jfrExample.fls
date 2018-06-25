@@ -1,8 +1,8 @@
-PWD d:/Github/substation_inspection/papers/Journal of Field Robotics
+PWD d:/Github/journal_templates/Journal of Field Robotics
 INPUT c:/texlive/2018/texmf.cnf
 INPUT c:/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT d:/Github/substation_inspection/papers/Journal of Field Robotics/jfrExample.tex
+INPUT d:/Github/journal_templates/Journal of Field Robotics/jfrExample.tex
 OUTPUT jfrExample.log
 INPUT c:/texlive/2018/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2018/texmf-dist/tex/latex/base/article.cls
