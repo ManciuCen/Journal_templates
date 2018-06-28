@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Graff~Zivin et~al.(2018)Graff~Zivin, Hsiang, and
+  Neidell]{GraffZivin2018}
+Joshua Graff~Zivin, Solomon~M Hsiang, and Matthew Neidell.
+\newblock Temperature and human capital in the short and long run.
+\newblock \emph{Journal of the Association of Environmental and Resource
+  Economists}, 5\penalty0 (1):\penalty0 77--105, 2018.
+\newblock ISSN 2333-5955.
+
+\end{thebibliography}
